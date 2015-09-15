@@ -8,6 +8,6 @@ int main() {
   for (int i = 1; i < 3; i++)
     sum += vec[i];
   cout << sum;
-
+//YO
   return 0;
 }
